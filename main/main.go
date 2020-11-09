@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"../mymod"
+	"github.com/rajvikram/testMod/mymod"
 )
 
 func main() {
